@@ -1,1 +1,1 @@
-# Documentação da Superintendência de Ciência e Inovação
+# Documentação da Diretoria de Ciência e Inovação
