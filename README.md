@@ -1,2 +1,1 @@
-# supcie-docs
-Documentação da Superintendência de Ciência e Inovação
+# Documentação da Superintendência de Ciência e Inovação
