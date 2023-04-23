@@ -25,6 +25,5 @@ Teste de documentação
 
 * Documentos de apoio
 
-## Links
-
-* [Links](links.md)
+<hr>
+Obs.: [mkdocs-material](https://squidfunk.github.io/mkdocs-material/getting-started/)
